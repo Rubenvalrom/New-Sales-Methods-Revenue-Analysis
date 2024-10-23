@@ -5,7 +5,7 @@ The analysis is conducted using Python in Jupyter Notebook and includes a PowerP
 
 ## Contents
 
-- **Jupyter Notebook**: Contains the data analysis and visualization code.
+- **Jupyter Notebook**: Contains the data analysis, graphs and all the findings + recommendations.
 - **PowerPoint Presentation**: A summary of the findings, intended for a non-technical audience.
 
 ## Requirements
